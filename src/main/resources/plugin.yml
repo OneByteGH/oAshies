@@ -5,4 +5,3 @@ api-version: 1.19
 authors: [ OneByte, ashswag ]
 description: A plugin I made that would give you the powers mentioned in this video https://youtu.be/AVVQAU3lWZo
 website: github.com/OneByteGH
-depend: [ProtocolLib]
